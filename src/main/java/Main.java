@@ -7,5 +7,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
         MainClassTask2 task2 = new MainClassTask2();
+        //Hello Vasya
     }
 }
